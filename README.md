@@ -1,6 +1,6 @@
 # Banking Application
 
-A simple Java command line banking application. Customers can register, sign in, manage accounts, and use basic banking features.
+A Java command line banking application. Customers can register, sign in, manage accounts, and use basic banking features.
 
 ## Features
 

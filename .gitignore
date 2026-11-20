@@ -1,0 +1,9 @@
+# Compiled Java classes
+*.class
+
+# Application log output
+banking.log
+
+# Common build output
+/out/
+/target/
